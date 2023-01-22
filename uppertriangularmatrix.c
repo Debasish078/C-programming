@@ -1,6 +1,5 @@
-/*
- * C Program to Display Upper zero Triangular Matrix
- */
+// C Program to Display Upper zero Triangular Matrix
+ 
  
 #include <stdio.h>
 int main()
