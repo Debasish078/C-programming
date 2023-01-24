@@ -1,4 +1,4 @@
-// wap to find the sum of two values using user defined function and peint in the main function
+// wap to find the sum of two values using user defined function and print in the main function
 #include<stdio.h>  
   
 int add(int, int); 
